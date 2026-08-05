@@ -6,3 +6,4 @@ __pycache__
 src/ontology/obi-cob-edit.owl
 .venv/
 *.xlsx
+/.idea
